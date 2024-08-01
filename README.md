@@ -40,8 +40,6 @@ classification
 └── dataset.py
 ```
 
-<br/>
-
 인하대학교 지능형 임베디드 소프트웨어 연구실에서 수집한 층간소음 [Dataset](https://drive.google.com/file/d/1_N_IJ5lJifwEH9UlA-oHWjd15oZ0pgQt/view?usp=sharing) 또는 위 Dataset Format에 맞춘 Custom Dataset 사용
 
 <br/>
@@ -51,7 +49,6 @@ classification
    ```
    python test.py
    ```
-   
 2. Test
    ```
    python test.py --mode "test"
